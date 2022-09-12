@@ -24,6 +24,6 @@ The purpose of the Data was to calculate the results of Colorado election based 
   <li> The winner of the election with total & percentage of votes received</li></ul> 
   
   <h4>Modifications</h4>
-  <ul><li> The election commission can add another column to the input data to collect information about the source of votes for instance : 1) Mail-in Ballot 2) Vote on election day 3) Early voting in person. This information will give me statstics of different voting methods and we can segrate this data by every county in the given state.
+  <ul><li> The election commission can add another column to the input data to collect information about the source of votes for instance : 1) Mail-in Ballot 2) Vote on election day 3) Early voting in person. This information will give me statistics of different voting methods and we can segrate this data by every county in the given state.
   <li>
  
