@@ -11,7 +11,7 @@ The purpose of the Data was to calculate the results of Colorado election based 
 <h3><B>  Election Audit Results </b></h3>
   <ol>
     <li>  The total number of voters showed up for Colorado election is 269,711</li>
-    <li>   Out of all the 3 Counties Denever was the highest percentage turnout with 82.8% of votes followed by Jefferson with 10.5% and Arapahoe with only 6.7% </li>
+    <li>   Out of all the 3 Counties Denver has the highest percentage turnout with 82.8% of votes followed by Jefferson with 10.5% and Arapahoe with only 6.7% </li>
     <li> In terms of candidates, Diana Degette was the winner of the election with almost 3/4 of total votes with 73.8% (272,892 votes). The other two candidates Charles Casper Stockham and Raymon Anthony Doane received 23.0% and 3.1% votes respectively.
   </ol>
   
